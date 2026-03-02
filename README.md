@@ -98,8 +98,3 @@ This automation solves:
 
 This project is part of a broader journey into automation, AI workflows, and system design.  
 More projects and improvements will be added over time.
-
----
-
-## 📁 Recommended Repository Structure
-
